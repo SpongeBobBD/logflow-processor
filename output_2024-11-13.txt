@@ -1,0 +1,32 @@
+Tag Counts
+Tag,Count
+sv_P4,1011
+sv_P1,540
+SV_P1,516
+email,515
+SV_P2,498
+sv_P2,480
+Untagged,6590
+
+Port/Protocol Combination Counts
+Port,Protocol,Count
+110,udp,528
+110,tcp,515
+3389,tcp,516
+80,tcp,540
+22,tcp,502
+80,udp,494
+993,udp,513
+25,tcp,480
+23,tcp,491
+49153,udp,513
+22,udp,495
+443,udp,505
+143,tcp,498
+23,udp,554
+993,tcp,520
+143,udp,508
+49153,tcp,518
+443,tcp,471
+25,udp,480
+3389,udp,509

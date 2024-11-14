@@ -1,0 +1,11 @@
+destination_port,protocol,tag
+143,tcp,SV_P2
+3389,tcp,sv_P5
+25,tcp,sv_P2
+993,tcp,sv_P5
+3389,tcp,SV_P1
+23,tcp,SV_P1
+993,tcp,sv_P4
+80,tcp,sv_P1
+110,tcp,email
+23,tcp,sv_P4
